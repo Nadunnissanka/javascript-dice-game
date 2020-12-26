@@ -1,0 +1,68 @@
+body{
+    background-color: #303841;
+    color: #fdfdfd;
+}
+
+#Heading{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 70px 100px;
+}
+
+.game-title{
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 7rem;
+    color: #d72323;
+}
+
+.trade-mark{
+    font-size: 0.6rem;
+    padding-left: 1%;
+}
+
+.roll-button-section{
+    margin-top: 1%;
+}
+
+.roll-btn{
+    padding:20px;
+    font-weight: 900;
+    font-size: 3rem;
+    border: 0;
+}
+
+.roll-btn:hover{
+    background-color: #ffffff;
+    color: #dc3545;
+}
+
+.dice-roll-set{
+    color: #ffffff;
+    font-weight: 700;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding:10px;
+    background-color: #3a4750;
+}
+
+.dice-img-1{
+    width:200px;
+    height: 200px;
+}
+
+.dice-img-2{
+    width:200px;
+    height: 200px;
+}
+
+#winner{
+    font-weight: 900;
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 4rem;
+
+}
